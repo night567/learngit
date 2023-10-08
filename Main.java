@@ -9,6 +9,8 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Hello SZU");
         System.out.println("Hello YWF");
+        System.out.println("Hello WJH");
+
     }
 
 }
